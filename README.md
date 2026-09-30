@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and volunteer on any project
 - 📫 How to reach me divinechisom01@gmail.com 0r Whatsapp +2349030785925
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Openminded to any undlying opportunity
+- ⚡ Fun fact: Open-minded to any underlying opportunity
 
 <!---
 DivineChisom/DivineChisom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
