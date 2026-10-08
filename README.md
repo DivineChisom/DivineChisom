@@ -18,4 +18,4 @@
 #### 🏛️ [AI and Digital Transformation in Government]https://certify.sbs.ox.ac.uk/64a62b48-fdca-4383-a4df-d53574e94df3#acc.1MAfuWLm
 * **Issuing Bodies:** University of Oxford – Saïd Business School & UNESCO
 * **Core Domains:** Data Governance, Responsible AI, Cyber-Resilience, Digital Policy & Risk Mitigation
-* 🔗 **https://certify.sbs.ox.ac.uk/64a62b48-fdca-4383-a4df-d53574e94df3#acc.1MAfuWLm
+* 🔗https://certify.sbs.ox.ac.uk/64a62b48-fdca-4383-a4df-d53574e94df3#acc.1MAfuWLm
